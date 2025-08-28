@@ -117,7 +117,3 @@ int prims()
 
 ## Result:
 Thus the C program to implement Prim's Algorithm for finding Total Cost of spanning tree is implemented successfully.
-
-
-## Result:
-Thus the C program to implement Prim's Algorithm for finding Total Cost of spanning tree is implemented successfully.
